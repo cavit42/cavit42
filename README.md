@@ -21,8 +21,7 @@ Ben Cavit Çınar, endüstriyel soğutma sistemleri ve elektronik projelerde uzm
 ## ✨ Öne Çıkan Projelerim
 🔹 **[FrioPlus Seçim Programı](https://github.com/cavit42/Projelerim):**
 Endüstriyel soğutma cihazlarının doğru seçimi için bir hesaplama ve analiz yazılımı.
-
-🔹 **Akıllı Röle Sistemi (ESP32):**
+🔹 **[Akıllı Röle Sistemi (ESP32):](https://github.com/cavit42/Zil-Saatleri-ve-R-le-Kontrol-Sistemi):**
 Zil saatlerini dinamik olarak kontrol eden, internet bağlantılı bir röle kontrol sistemi.
 
 🔹 **Elektrik Enerji Analiz Yazılımı:**
