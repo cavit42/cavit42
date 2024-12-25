@@ -69,7 +69,7 @@ Soğutma cihazları ve sistemlerinin enerji tüketim analizini yaparak, çevre d
 ## 📫 Bana Ulaşın
 - **Web Sitesi:** [Konya Soğutma](https://konyasogutma.com.tr/)
 - **LinkedIn:** [Cavit Çınar](https://linkedin.com/in/cavit-cinar)
-- **E-posta:** cavit@example.com
+- **E-posta:** cavit@konyasogutma.com.tr
 - **GitHub:** [cavit42](https://github.com/cavit42)
 
 ---
